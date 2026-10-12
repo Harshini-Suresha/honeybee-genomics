@@ -1,0 +1,112 @@
+{
+ "assembly": "Amel_HAv3.1 GCF_003254395.2",
+ "source": "NCBI assembly report",
+ "chromosomes": [
+  {
+   "chr": "1",
+   "LG": "LG1",
+   "refseq": "NC_037638.1",
+   "length_bp": 27754200
+  },
+  {
+   "chr": "2",
+   "LG": "LG2",
+   "refseq": "NC_037639.1",
+   "length_bp": 16089512
+  },
+  {
+   "chr": "3",
+   "LG": "LG3",
+   "refseq": "NC_037640.1",
+   "length_bp": 13619445
+  },
+  {
+   "chr": "4",
+   "LG": "LG4",
+   "refseq": "NC_037641.1",
+   "length_bp": 13404451
+  },
+  {
+   "chr": "5",
+   "LG": "LG5",
+   "refseq": "NC_037642.1",
+   "length_bp": 13896941
+  },
+  {
+   "chr": "6",
+   "LG": "LG6",
+   "refseq": "NC_037643.1",
+   "length_bp": 17789102
+  },
+  {
+   "chr": "7",
+   "LG": "LG7",
+   "refseq": "NC_037644.1",
+   "length_bp": 14198698
+  },
+  {
+   "chr": "8",
+   "LG": "LG8",
+   "refseq": "NC_037645.1",
+   "length_bp": 12717210
+  },
+  {
+   "chr": "9",
+   "LG": "LG9",
+   "refseq": "NC_037646.1",
+   "length_bp": 12354651
+  },
+  {
+   "chr": "10",
+   "LG": "LG10",
+   "refseq": "NC_037647.1",
+   "length_bp": 12360052
+  },
+  {
+   "chr": "11",
+   "LG": "LG11",
+   "refseq": "NC_037648.1",
+   "length_bp": 16352600
+  },
+  {
+   "chr": "12",
+   "LG": "LG12",
+   "refseq": "NC_037649.1",
+   "length_bp": 11514234
+  },
+  {
+   "chr": "13",
+   "LG": "LG13",
+   "refseq": "NC_037650.1",
+   "length_bp": 11279722
+  },
+  {
+   "chr": "14",
+   "LG": "LG14",
+   "refseq": "NC_037651.1",
+   "length_bp": 10670842
+  },
+  {
+   "chr": "15",
+   "LG": "LG15",
+   "refseq": "NC_037652.1",
+   "length_bp": 9534514
+  },
+  {
+   "chr": "16",
+   "LG": "LG16",
+   "refseq": "NC_037653.1",
+   "length_bp": 7238532
+  }
+ ],
+ "amfor_locus": {
+  "gene": "for/Amfor",
+  "geneid": 406092,
+  "refseq": "NC_037650.1",
+  "chr": "13",
+  "strand": "-",
+  "start": 10107901,
+  "end": 10187774,
+  "note": "chrstart 10187774 / chrstop 10107901 in Gene esummary (minus strand); GeneID 406092"
+ }
+}
