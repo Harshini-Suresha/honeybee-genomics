@@ -1,10 +1,17 @@
 Method: teaching-equivalent UPGMA on Needleman-Wunsch protein global alignments
 (match +2, mismatch -1, gap -2; same scoring as the page's Interactive Sequence Lab).
 Distance = 1 - (identical residues / alignment columns, gaps included).
-This is NOT a MAFFT+MEGA/RAxML maximum-likelihood tree. To upgrade:
-  1. Save data/amfor_homologs.fasta (5 taxa below) 
-  2. Align with MAFFT (mafft --auto), trim, run MEGA or RAxML (raxmlHPC -m PROTGAMMAAUTO -n AMFOR)
-  3. Replace data/tree.nwk with the ML Newick and note bootstrap support.
+UPGMA Newick (data/tree.nwk) kept for reference; the page now shows the ML tree below.
+
+MAXIMUM-LIKELIHOOD TREE (IQ-TREE 2.4.0, data/tree_ml_iqtree.contree):
+  mafft --auto data/amfor_homologs.fasta > data/amfor_msa_MAFFT.fasta (974 columns)
+  iqtree2 -s MSA -m MFP -B 1000 -o Dmel_P32023_for
+  Best-fit model (BIC): JTT+I+R2. 1000 ultrafast bootstrap replicates, Drosophila outgroup.
+  (Amel_ref:0.0820,(Amel_X3:0.1341,(Bombus:0.0146,Nasonia:0.1009)90:0.0256)61:0.0355,Dmel:1.2257)
+  Supports: Bombus+Nasonia 90 (strong); X3+(Bombus,Nasonia) 61 (WEAK - disagrees with UPGMA,
+  which groups ref+Bombus+X3; treat this split as uncertain).
+  Note: NW identity is order-dependent in tie-breaking (Nasonia-ref 74.4 vs 74.6 by orientation);
+  the ML result uses the full MSA directly and does not depend on that choice.
 Taxa:
  - Amel_ref_NP_001011581 | Apis mellifera NP_001011581.1, 678aa (verified identical to embedded NM_001011581.1 CDS translation)
  - Amel_X3_XM_026444524 | Apis mellifera isoform X3 from XM_026444524.1, 674aa (embedded)
