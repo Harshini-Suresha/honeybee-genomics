@@ -1,0 +1,95 @@
+{
+ "alignment_length": 685,
+ "overall_identity": 0.8671532846715329,
+ "windows_30col": [
+  {
+   "window_start": 1,
+   "identity": 0.4
+  },
+  {
+   "window_start": 31,
+   "identity": 0.36666666666666664
+  },
+  {
+   "window_start": 61,
+   "identity": 0.1
+  },
+  {
+   "window_start": 91,
+   "identity": 0.8333333333333334
+  },
+  {
+   "window_start": 121,
+   "identity": 0.7
+  },
+  {
+   "window_start": 151,
+   "identity": 1.0
+  },
+  {
+   "window_start": 181,
+   "identity": 1.0
+  },
+  {
+   "window_start": 211,
+   "identity": 1.0
+  },
+  {
+   "window_start": 241,
+   "identity": 1.0
+  },
+  {
+   "window_start": 271,
+   "identity": 1.0
+  },
+  {
+   "window_start": 301,
+   "identity": 1.0
+  },
+  {
+   "window_start": 331,
+   "identity": 0.6
+  },
+  {
+   "window_start": 361,
+   "identity": 0.9666666666666667
+  },
+  {
+   "window_start": 391,
+   "identity": 1.0
+  },
+  {
+   "window_start": 421,
+   "identity": 1.0
+  },
+  {
+   "window_start": 451,
+   "identity": 1.0
+  },
+  {
+   "window_start": 481,
+   "identity": 1.0
+  },
+  {
+   "window_start": 511,
+   "identity": 1.0
+  },
+  {
+   "window_start": 541,
+   "identity": 1.0
+  },
+  {
+   "window_start": 571,
+   "identity": 1.0
+  },
+  {
+   "window_start": 601,
+   "identity": 1.0
+  },
+  {
+   "window_start": 631,
+   "identity": 1.0
+  }
+ ],
+ "note": "Real Needleman-Wunsch alignment of NP_001011581.1 vs isoform X3 (685 columns, 86.72% identity). Windows of 30 columns; MAFFT multi-species conservation not yet run - align data/amfor_homologs.fasta with MAFFT and replace."
+}

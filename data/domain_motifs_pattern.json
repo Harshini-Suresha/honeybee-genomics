@@ -1,0 +1,79 @@
+{
+ "note": "Pattern-match coordinates on the REAL RefSeq proteins (PROSITE-style regex), NOT an InterProScan run. Paste your InterProScan TSV/JSON here to upgrade: replace cNMP/Kinase entries with IPR accessions + coordinates.",
+ "query_proteins": {
+  "Amel_ref": "NP_001011581.1 678aa",
+  "Amel_X3": "XM_026444524.1 translation 674aa"
+ },
+ "motifs": [
+  {
+   "motif": "cNMP-binding (pattern [FVL]GE[LMF]A[IL])",
+   "seq": "Amel_ref",
+   "match": "LGELAI",
+   "start": 165,
+   "end": 170
+  },
+  {
+   "motif": "cNMP-binding (pattern [FVL]GE[LMF]A[IL])",
+   "seq": "Amel_X3",
+   "match": "LGELAI",
+   "start": 170,
+   "end": 175
+  },
+  {
+   "motif": "Glycine-rich loop (kinase ATP-binding)",
+   "seq": "Amel_ref",
+   "match": "GVGGFGRV",
+   "start": 374,
+   "end": 381
+  },
+  {
+   "motif": "Glycine-rich loop (kinase ATP-binding)",
+   "seq": "Amel_X3",
+   "match": "GVGGFGRV",
+   "start": 370,
+   "end": 377
+  },
+  {
+   "motif": "Catalytic loop",
+   "seq": "Amel_ref",
+   "match": "YRDLKPEN",
+   "start": 489,
+   "end": 496
+  },
+  {
+   "motif": "Catalytic loop",
+   "seq": "Amel_X3",
+   "match": "YRDLKPEN",
+   "start": 485,
+   "end": 492
+  },
+  {
+   "motif": "DFG motif (activation loop start)",
+   "seq": "Amel_ref",
+   "match": "VDFGFA",
+   "start": 508,
+   "end": 513
+  },
+  {
+   "motif": "DFG motif (activation loop start)",
+   "seq": "Amel_X3",
+   "match": "VDFGFA",
+   "start": 504,
+   "end": 509
+  },
+  {
+   "motif": "APE motif (activation loop end)",
+   "seq": "Amel_ref",
+   "match": "APEVI",
+   "start": 533,
+   "end": 537
+  },
+  {
+   "motif": "APE motif (activation loop end)",
+   "seq": "Amel_X3",
+   "match": "APEVI",
+   "start": 529,
+   "end": 533
+  }
+ ]
+}

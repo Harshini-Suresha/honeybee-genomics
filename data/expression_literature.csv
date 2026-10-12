@@ -1,0 +1,6 @@
+gene,comparison,tissue,assay,result,citation,note
+Amfor (for),forager vs nurse (same age single-cohort),brain,qPCR + PKG enzyme assay,higher in foragers; PKG activity ~4x in foragers,Ben-Shahar et al 2002 Science; Ben-Shahar et al 2003 J Exp Biol,relative - not raw counts
+Amfor (for),forager vs nurse,brain (optic lobe/mushroom body in situ),in situ hybridization,strong in optic lobe lamina + mushroom body Kenyon cells; rises at nurse-forager transition,Ben-Shahar et al 2002; Heylen et al 2008 J Insect Physiol,relative
+per (period),forager (17-24d) vs hive bee (7d),brain,slot/northern blot,foragers ~2.2x (young = 45.5% of forager); persists after isolation; precocious foragers = normal foragers,Toma et al 2000 PNAS (PMC18775),relative densitometry
+brain neurogenomic state,forager vs nurse,whole brain,cDNA microarray 6878 cDNAs,~2670 genes (39%) differential; behavior predicts state 95%,Whitfield et al 2003 Science; Whitfield et al 2006,relative
+USER_COUNTS,forager / nurse / queen,YOUR tissue,YOUR RNA-seq,PASTE raw counts + normalization here to replace this template row,Your dataset,template -heatmap/volcano/PCA currently placeholder sin() values

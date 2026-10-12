@@ -1,0 +1,10 @@
+trait,qtl,population,original_linkage,amel_hav3.1_note,source
+pollen-hoarding/foraging,pln1,high x low pollen-hoarding strains,LG (Hunt et al 1995; confirmed Page et al 2000),lift to Amel_HAv3.1 chromosomes pending - see INFO,Hunt et al 1995; Page et al 2000; Rueppell et al 2004
+pollen-hoarding/foraging,pln2,high x low pollen-hoarding strains,LG (Hunt et al 1995),lift pending,Hunt et al 1995; Rueppell et al 2004
+pollen-hoarding/foraging,pln3,high x low pollen-hoarding strains,LG (Hunt et al 1995),lift pending,Hunt et al 1995
+foraging,pln4,marker association (individual foraging),LG (Rueppell et al 2004),lift pending,Rueppell et al 2004
+nest defence (stinging),sting-1,Africanized x European backcross,STS-linked (Hunt et al 1998; Arechavaleta-Velasco et al 2003),lift pending - also affects guarding,Hunt et al 1998; Arechavaleta-Velasco et al 2003
+nest defence (guarding/stinging),sting-2,Africanized x European backcross,STS-linked,lift pending,Hunt et al 1998; Arechavaleta-Velasco et al 2003
+nest defence (guarding),sting-3,Africanized x European backcross,STS-linked,lift pending,Hunt et al 1998; Arechavaleta-Velasco et al 2003
+nest defence (stinging/guarding),sting-QTL (Shorter et al 2012),2 backcross families SNP-in-genes,2 new sting + 1 guard QTL,lift pending,Shorter et al 2012 Behav Genet 42:663-674
+foraging gene locus,Amfor (GeneID 406092),reference genome Amel_HAv3.1 GCF_003254395.2,LG13 / NC_037650.1 minus strand 10187774..10107901 14 exons,REAL Amel_HAv3.1 coordinates from NCBI Gene 406092 esummary,NCBI GeneID 406092

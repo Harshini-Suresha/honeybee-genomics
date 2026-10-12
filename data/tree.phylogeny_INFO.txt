@@ -1,0 +1,17 @@
+Method: teaching-equivalent UPGMA on Needleman-Wunsch protein global alignments
+(match +2, mismatch -1, gap -2; same scoring as the page's Interactive Sequence Lab).
+Distance = 1 - (identical residues / alignment columns, gaps included).
+This is NOT a MAFFT+MEGA/RAxML maximum-likelihood tree. To upgrade:
+  1. Save data/amfor_homologs.fasta (5 taxa below) 
+  2. Align with MAFFT (mafft --auto), trim, run MEGA or RAxML (raxmlHPC -m PROTGAMMAAUTO -n AMFOR)
+  3. Replace data/tree.nwk with the ML Newick and note bootstrap support.
+Taxa:
+ - Amel_ref_NP_001011581 | Apis mellifera NP_001011581.1, 678aa (verified identical to embedded NM_001011581.1 CDS translation)
+ - Amel_X3_XM_026444524 | Apis mellifera isoform X3 from XM_026444524.1, 674aa (embedded)
+ - Bombus_ACS36224 | Bombus terrestris ACS36224.1 cGMP-dependent protein kinase foraging, 668aa
+ - Nasonia_A0A7M7Q7K2 | Nasonia vitripennis UniProt A0A7M7Q7K2, 719aa
+ - Dmel_P32023_for | Drosophila melanogaster for (PKG) UniProt P32023, 934aa (outgroup)
+Pairwise % identity (NW, gaps included):
+ Amel_ref-X3 86.7 | Amel_ref-Bombus 90.0 | Amel_ref-Nasonia 74.4 | Amel_ref-Dmel 55.2
+ X3-Bombus 90.0 | X3-Nasonia 76.7 | X3-Dmel 55.4 | Bombus-Nasonia 80.1 | Bombus-Dmel 55.8 | Nasonia-Dmel 57.1
+Apis cerana AEQ57608.1 (95aa, partial) fetched but EXCLUDED from tree (too short, would distort distances).
