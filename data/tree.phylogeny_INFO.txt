@@ -9,7 +9,7 @@ Taxa:
  - Amel_ref_NP_001011581 | Apis mellifera NP_001011581.1, 678aa (verified identical to embedded NM_001011581.1 CDS translation)
  - Amel_X3_XM_026444524 | Apis mellifera isoform X3 from XM_026444524.1, 674aa (embedded)
  - Bombus_ACS36224 | Bombus terrestris ACS36224.1 cGMP-dependent protein kinase foraging, 668aa
- - Nasonia_A0A7M7Q7K2 | Nasonia vitripennis UniProt A0A7M7Q7K2, 719aa
+ - Nasonia_A0A7M7GDM4 | Nasonia vitripennis UniProt A0A7M7GDM4, 777aa
  - Dmel_P32023_for | Drosophila melanogaster for (PKG) UniProt P32023, 934aa (outgroup)
 Pairwise % identity (NW, gaps included):
  Amel_ref-X3 86.7 | Amel_ref-Bombus 90.0 | Amel_ref-Nasonia 74.4 | Amel_ref-Dmel 55.2

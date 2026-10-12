@@ -1,6 +1,6 @@
 # How each real value was produced (rerunnable)
 - Source CDS: extracted from index.html RS.ref (2037bp) / RS.x3 (2025bp); verified byte-identical translation to NCBI NP_001011581.1 via efetch (NM_001011581.1_cds). GC 47.13%, 678/674aa.
-- Homologs: NCBI efetch protein NP_001011581.1, ACS36224.1 (Bombus), AEQ57608.1 (Apis cerana partial 95aa, excluded from tree); UniProt REST A0A7M7Q7K2 (Nasonia 719aa), P32023 (Drosophila for-PKG 934aa).
+- Homologs: NCBI efetch protein NP_001011581.1, ACS36224.1 (Bombus), AEQ57608.1 (Apis cerana partial 95aa, excluded from tree); UniProt REST A0A7M7GDM4 (Nasonia 777aa), P32023 (Drosophila for-PKG 934aa).
 - Alignment/tree: pure-python Needleman-Wunsch (match+2/mismatch-1/gap-2, same as page lab) -> % identity -> distance=1-identity -> UPGMA -> data/tree.nwk. Teaching-grade; replace with MAFFT+MEGA/RAxML ML+bootstraps.
 - Domains: regex pattern scan on real proteins (LGELAI 165-170; GVGGFGRV 374-381; YRDLKPEN 489-496; VDFGFA 508-513; APEVI 533-537 in ref). NOT InterProScan - run InterProScan 5 on data/amfor_ref_protein.fasta and paste IPR coords.
 - QTL/expression: literature-curated (see CSVs). Amfor locus NC_037650.1:10187774..10107901 minus strand from NCBI Gene 406092 esummary. pln/sting QTL given as original LG/STS - lift to Amel_HAv3.1 with your QTL table.
