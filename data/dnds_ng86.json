@@ -1,0 +1,762 @@
+{
+ "method": "Nei-Gojobori 1986 per codon pair on back-translated NW protein alignment; sliding windows 30 codons step 5, min 20 ungapped; JC correction; omega capped at 5 for display (codon ~375 window has dS~0)",
+ "mean_omega": 0.207,
+ "windows": [
+  {
+   "codon_mid": 15,
+   "omega": 0.53,
+   "dN": 0.5581,
+   "dS": 1.0525
+  },
+  {
+   "codon_mid": 20,
+   "omega": 0.681,
+   "dN": 0.7509,
+   "dS": 1.1026
+  },
+  {
+   "codon_mid": 25,
+   "omega": 0.653,
+   "dN": 0.7825,
+   "dS": 1.1986
+  },
+  {
+   "codon_mid": 30,
+   "omega": 0.535,
+   "dN": 0.8204,
+   "dS": 1.5332
+  },
+  {
+   "codon_mid": 35,
+   "omega": 0.318,
+   "dN": 0.7106,
+   "dS": 2.2312
+  },
+  {
+   "codon_mid": 45,
+   "omega": 0.403,
+   "dN": 0.813,
+   "dS": 2.0179
+  },
+  {
+   "codon_mid": 55,
+   "omega": 0.265,
+   "dN": 0.7773,
+   "dS": 2.9362
+  },
+  {
+   "codon_mid": 60,
+   "omega": 0.237,
+   "dN": 0.7937,
+   "dS": 3.3494
+  },
+  {
+   "codon_mid": 85,
+   "omega": 0.642,
+   "dN": 1.0428,
+   "dS": 1.6231
+  },
+  {
+   "codon_mid": 90,
+   "omega": 0.774,
+   "dN": 0.7162,
+   "dS": 0.9258
+  },
+  {
+   "codon_mid": 95,
+   "omega": 0.894,
+   "dN": 0.4708,
+   "dS": 0.5266
+  },
+  {
+   "codon_mid": 100,
+   "omega": 0.964,
+   "dN": 0.2774,
+   "dS": 0.2877
+  },
+  {
+   "codon_mid": 105,
+   "omega": 0.803,
+   "dN": 0.1396,
+   "dS": 0.1739
+  },
+  {
+   "codon_mid": 110,
+   "omega": 1.02,
+   "dN": 0.2185,
+   "dS": 0.2144
+  },
+  {
+   "codon_mid": 115,
+   "omega": 1.09,
+   "dN": 0.3532,
+   "dS": 0.3241
+  },
+  {
+   "codon_mid": 120,
+   "omega": 1.214,
+   "dN": 0.3619,
+   "dS": 0.298
+  },
+  {
+   "codon_mid": 125,
+   "omega": 1.323,
+   "dN": 0.3518,
+   "dS": 0.2659
+  },
+  {
+   "codon_mid": 130,
+   "omega": 1.388,
+   "dN": 0.3562,
+   "dS": 0.2567
+  },
+  {
+   "codon_mid": 135,
+   "omega": 1.443,
+   "dN": 0.3032,
+   "dS": 0.2101
+  },
+  {
+   "codon_mid": 140,
+   "omega": 1.663,
+   "dN": 0.1051,
+   "dS": 0.0632
+  },
+  {
+   "codon_mid": 145,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 150,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 155,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 160,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 165,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 170,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 175,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 180,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 185,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 190,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 195,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 200,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 205,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 210,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 215,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 220,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 225,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 230,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 235,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 240,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 245,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 250,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 255,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 260,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 265,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 270,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 275,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 280,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 285,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 290,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 295,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 300,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 305,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 310,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 315,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 320,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 325,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 330,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 335,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 340,
+   "omega": 0.507,
+   "dN": 0.0858,
+   "dS": 0.1693
+  },
+  {
+   "codon_mid": 345,
+   "omega": 0.501,
+   "dN": 0.1628,
+   "dS": 0.325
+  },
+  {
+   "codon_mid": 350,
+   "omega": 0.52,
+   "dN": 0.2058,
+   "dS": 0.3961
+  },
+  {
+   "codon_mid": 355,
+   "omega": 0.498,
+   "dN": 0.2043,
+   "dS": 0.4099
+  },
+  {
+   "codon_mid": 360,
+   "omega": 0.563,
+   "dN": 0.209,
+   "dS": 0.371
+  },
+  {
+   "codon_mid": 365,
+   "omega": 0.653,
+   "dN": 0.1684,
+   "dS": 0.2578
+  },
+  {
+   "codon_mid": 370,
+   "omega": 1.017,
+   "dN": 0.0783,
+   "dS": 0.077
+  },
+  {
+   "codon_mid": 375,
+   "omega": 5,
+   "dN": 0.0302,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 380,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 385,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 390,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 395,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 400,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 405,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 410,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 415,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 420,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 425,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 430,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 435,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 440,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 445,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 450,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 455,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 460,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 465,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 470,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 475,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 480,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 485,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 490,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 495,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 500,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 505,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 510,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 515,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 520,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 525,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 530,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 535,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 540,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 545,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 550,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 555,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 560,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 565,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 570,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 575,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 580,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 585,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 590,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 595,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0509
+  },
+  {
+   "codon_mid": 600,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.05
+  },
+  {
+   "codon_mid": 605,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0492
+  },
+  {
+   "codon_mid": 610,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0484
+  },
+  {
+   "codon_mid": 615,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0546
+  },
+  {
+   "codon_mid": 620,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0625
+  },
+  {
+   "codon_mid": 625,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 630,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 635,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 640,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 645,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 650,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 655,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 660,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 665,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  },
+  {
+   "codon_mid": 670,
+   "omega": 0.0,
+   "dN": 0.0,
+   "dS": 0.0
+  }
+ ]
+}

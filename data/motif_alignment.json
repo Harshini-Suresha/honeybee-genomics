@@ -1,0 +1,140 @@
+{
+ "method": "PROSITE-style regex on real homolog proteins, +/-10aa windows",
+ "motifs": {
+  "Gly-rich": [
+   {
+    "taxon": "Amel_ref_NP_001011581",
+    "start": 374,
+    "seq": "LQDLRPLATLGVGGFGRVELVQIAGDSS"
+   },
+   {
+    "taxon": "Amel_X3_XM_026444524",
+    "start": 370,
+    "seq": "LQDLRPLATLGVGGFGRVELVQIAGDSS"
+   },
+   {
+    "taxon": "Bombus_ACS36224",
+    "start": 364,
+    "seq": "LQDLRPLATLGVGGFGRVELVQIVGDSS"
+   },
+   {
+    "taxon": "Nasonia_A0A7M7GDM4",
+    "start": 473,
+    "seq": "LQDLRSLATLGVGGFGRVELVQIAGDNS"
+   },
+   {
+    "taxon": "Dmel_P32023_for",
+    "start": 630,
+    "seq": "LTDLRVIATLGVGGFGRVELVQTNGDSS"
+   }
+  ],
+  "Catalytic": [
+   {
+    "taxon": "Amel_ref_NP_001011581",
+    "start": 489,
+    "seq": "FDYLHSRNIIYRDLKPENLLLDSQGYVK"
+   },
+   {
+    "taxon": "Amel_X3_XM_026444524",
+    "start": 485,
+    "seq": "FDYLHSRNIIYRDLKPENLLLDSQGYVK"
+   },
+   {
+    "taxon": "Bombus_ACS36224",
+    "start": 479,
+    "seq": "FDYLHSRNIIYRDLKPENLLLDSQGYVK"
+   },
+   {
+    "taxon": "Nasonia_A0A7M7GDM4",
+    "start": 588,
+    "seq": "FDYLHSRNIIYRDLKPENLLLDSQGYVK"
+   },
+   {
+    "taxon": "Dmel_P32023_for",
+    "start": 745,
+    "seq": "FDYLHSRNIIYRDLKPENLLLNERGYVK"
+   }
+  ],
+  "DFG": [
+   {
+    "taxon": "Amel_ref_NP_001011581",
+    "start": 508,
+    "seq": "LLDSQGYVKLVDFGFAKRLDHGRKTW"
+   },
+   {
+    "taxon": "Amel_X3_XM_026444524",
+    "start": 504,
+    "seq": "LLDSQGYVKLVDFGFAKRLDHGRKTW"
+   },
+   {
+    "taxon": "Bombus_ACS36224",
+    "start": 498,
+    "seq": "LLDSQGYVKLVDFGFAKRLDHGRKTW"
+   },
+   {
+    "taxon": "Nasonia_A0A7M7GDM4",
+    "start": 607,
+    "seq": "LLDSQGYVKLVDFGFAKRLDHGRKTW"
+   },
+   {
+    "taxon": "Dmel_P32023_for",
+    "start": 764,
+    "seq": "LLNERGYVKLVDFGFAKKLQTGRKTW"
+   }
+  ],
+  "APE": [
+   {
+    "taxon": "Amel_ref_NP_001011581",
+    "start": 533,
+    "seq": "WTFCGTPEYVAPEVILNKGHDISAD"
+   },
+   {
+    "taxon": "Amel_X3_XM_026444524",
+    "start": 529,
+    "seq": "WTFCGTPEYVAPEVILNKGHDISAD"
+   },
+   {
+    "taxon": "Bombus_ACS36224",
+    "start": 523,
+    "seq": "WTFCGTPEYVAPEVILNKGHDISAD"
+   },
+   {
+    "taxon": "Nasonia_A0A7M7GDM4",
+    "start": 632,
+    "seq": "WTFCGTPEYVAPEVILNRGHDISAD"
+   },
+   {
+    "taxon": "Dmel_P32023_for",
+    "start": 789,
+    "seq": "WTFCGTPEYVAPEVILNRGHDISAD"
+   }
+  ],
+  "cNMP": [
+   {
+    "taxon": "Amel_ref_NP_001011581",
+    "start": 165,
+    "seq": "YLSTLAPGKVLGELAILYNCKRTATI"
+   },
+   {
+    "taxon": "Amel_X3_XM_026444524",
+    "start": 170,
+    "seq": "YLSTLAPGKVLGELAILYNCKRTATI"
+   },
+   {
+    "taxon": "Bombus_ACS36224",
+    "start": 164,
+    "seq": "YLSTLAPGKVLGELAILYNCKRTATI"
+   },
+   {
+    "taxon": "Nasonia_A0A7M7GDM4",
+    "start": 273,
+    "seq": "YLSTLAPGKVLGELAILYNCKRTATI"
+   },
+   {
+    "taxon": "Dmel_P32023_for",
+    "start": 429,
+    "seq": "YLSTLSGAKVLGELAILYNCQRTATI"
+   }
+  ]
+ }
+}

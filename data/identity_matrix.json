@@ -1,0 +1,47 @@
+{
+ "method": "Needleman-Wunsch protein global alignment (match+2/mismatch-1/gap-2), % identical columns incl. gaps",
+ "order": [
+  "Dmel",
+  "Nasonia",
+  "Amel X3",
+  "Amel ref",
+  "Bombus"
+ ],
+ "matrix_pct": [
+  [
+   100.0,
+   57.1,
+   55.4,
+   55.2,
+   55.8
+  ],
+  [
+   57.1,
+   100.0,
+   76.7,
+   74.4,
+   80.0
+  ],
+  [
+   55.4,
+   76.7,
+   100.0,
+   86.7,
+   90.0
+  ],
+  [
+   55.2,
+   74.4,
+   86.7,
+   100.0,
+   90.0
+  ],
+  [
+   55.8,
+   80.0,
+   90.0,
+   90.0,
+   100.0
+  ]
+ ]
+}

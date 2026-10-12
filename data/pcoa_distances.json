@@ -1,0 +1,29 @@
+{
+ "method": "Classical MDS (PCoA) on NW distance matrix (1-identity), numpy eigh",
+ "var_explained": [
+  0.756,
+  0.188
+ ],
+ "coords": {
+  "Amel_ref_NP_001011581": [
+   -0.0984,
+   -0.0796
+  ],
+  "Amel_X3_XM_026444524": [
+   -0.0986,
+   -0.0466
+  ],
+  "Bombus_ACS36224": [
+   -0.0985,
+   -0.0197
+  ],
+  "Nasonia_A0A7M7GDM4": [
+   -0.0456,
+   0.1658
+  ],
+  "Dmel_P32023_for": [
+   0.3412,
+   -0.0199
+  ]
+ }
+}
